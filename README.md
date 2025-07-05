@@ -57,76 +57,16 @@ Loss: ~0.78
 
 Metrics: Top-1 Accuracy, Confusion Matrix
 
-💻 Installation
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/food-calorie-estimator.git
-cd food-calorie-estimator
-pip install -r requirements.txt
-📷 How to Use
-Run the model:
 
-bash
-Copy
-Edit
-python predict.py --image path/to/image.jpg
-Output:
+## 💻 Installation
 
-yaml
-Copy
-Edit
-Prediction: Pizza 🍕
-Estimated Calories: 285 kcal/slice
-Streamlit App (optional):
+To get started with this project, follow these steps:
 
-bash
-Copy
-Edit
-streamlit run app.py
-📊 Sample Output
+### ✅ Prerequisites
 
-🛠️ Technologies Used
-Python
+Make sure you have the following installed:
 
-TensorFlow / Keras
-
-Pandas, NumPy
-
-Streamlit (for web app)
-
-Jupyter Notebook
-
-Kaggle Datasets
-
-📌 Future Enhancements
-Nutritional breakdown: Protein, Carbs, Fat
-
-Multi-item detection on a single plate
-
-Voice and OCR input
-
-Mobile app deployment
-
-🧾 License
-This project is open-source under the MIT License.
-
-🙋‍♀️ Authors
-Made with ❤️ by Your Name
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to generate this as a downloadable `.md` file or help you customize the GitHub repo structure as well?
-
-
-
-
-
-
-
-
-Ask ChatGPT
+- Python >= 3.7
+- pip
+- Git
+- Virtual environment tool (optional but recommended)
